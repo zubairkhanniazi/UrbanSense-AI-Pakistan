@@ -1,0 +1,2 @@
+study_area,acquisition_date,crs,pixel_area_m2,classified_scl_pixels,valid_ndvi_pixels,valid_ndvi_percent_of_classified,scl_vegetation_percent_of_valid_ndvi,mean_ndvi,median_ndvi,minimum_ndvi,maximum_ndvi
+Multan,2024-11-20,EPSG:32642,100.0,35799792,35790342,99.97360319858842,13.414311603951703,0.32997119426727295,0.26626425981521606,-0.9955456852912903,0.9994044303894043

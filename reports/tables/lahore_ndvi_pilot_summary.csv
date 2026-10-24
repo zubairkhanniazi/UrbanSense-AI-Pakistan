@@ -1,0 +1,2 @@
+study_area,acquisition_date,crs,pixel_area_m2,classified_scl_pixels,valid_ndvi_pixels,valid_pixel_percent,cloud_shadow_cirrus_snow_class_percent,mean_ndvi,median_ndvi,minimum_ndvi,maximum_ndvi
+Lahore,2024-10-13,EPSG:32643,100.0,16744040,16679259,99.61311009768252,0.0,0.3805514872074127,0.3300909399986267,-0.9977090358734131,0.9996914267539978

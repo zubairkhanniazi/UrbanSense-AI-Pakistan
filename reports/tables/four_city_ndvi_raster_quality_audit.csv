@@ -1,0 +1,5 @@
+city,raster_path,crs,pixel_width,pixel_height,width_pixels,height_pixels,valid_ndvi_pixels,nodata_pixels,pixels_outside_ndvi_range,mean_ndvi_from_raster,minimum_ndvi,maximum_ndvi,comparison_csv_mean_ndvi,mean_difference,pixel_count_matches_comparison,range_check_passed
+Islamabad,data\processed\islamabad_2024_10_16\ndvi_2024_10_16.tif,EPSG:32643,10.0,10.0,4768,3550,8859022,8067378,0,0.4268114643096305,-0.816216230392456,0.9170507192611694,0.426811,4.643096305212424e-07,True,True
+Lahore,data\processed\lahore_2024_10_13\ndvi_2024_10_13.tif,EPSG:32643,10.0,10.0,5826,5059,16679259,12794475,0,0.38055152065059483,-0.9977090358734131,0.9996914267539978,0.3805514872074127,3.3443182112513625e-08,True,True
+Multan,data\processed\multan_2024_11_20\ndvi_2024-11-20.tif,EPSG:32642,10.0,10.0,7537,11199,35790342,48616521,0,0.32997118455937846,-0.9955456852912903,0.9994044303894043,0.32997119426727295,-9.707894488286684e-09,True,True
+Karachi,data\processed\karachi_2024_multidate\ndvi_median_composite_2024.tif,EPSG:32642,10.0,10.0,8983,10285,35411458,56978697,0,0.1937945061873712,-0.998733401298523,0.9995858073234558,0.1937945061873712,0.0,True,True

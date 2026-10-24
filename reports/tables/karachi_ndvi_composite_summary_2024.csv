@@ -1,0 +1,2 @@
+study_area,year,acquisition_dates,target_crs,pixel_size_m,boundary_grid_pixels,valid_composite_pixels,valid_composite_pixel_percent,approx_valid_area_km2,mean_ndvi,approx_median_ndvi,minimum_ndvi,maximum_ndvi,pixels_with_1_observation,pixels_with_2_observations,pixels_with_3_observations,pixels_with_no_observations_inside_grid
+Karachi,2024,2024-10-09; 2024-11-06; 2024-11-26,EPSG:32642,10,35596062,35411458,99.48139207084199,3541.1458,0.1937945061873712,0.1745,-0.998733401298523,0.9995858073234558,31703690,3707768,0,184604

@@ -1,0 +1,5 @@
+city,acquisition_date,method,valid_ndvi_pixels,mean_ndvi,median_ndvi,reported_valid_pixel_percent,comparison_status
+Islamabad,2024-10-16,Single-date observation,8859022,0.426811,0.413273,,Preliminary; methods differ
+Lahore,2024-10-13,Single-date observation,16679259,0.3805514872074127,0.3300909399986267,,Preliminary; methods differ
+Multan,2024-11-20,Single-date observation,35790342,0.32997119426727295,0.26626425981521606,99.97360319858842,Preliminary; methods differ
+Karachi,2024-10-09; 2024-11-06; 2024-11-26,Three-date pixel-wise median composite,35411458,0.1937945061873712,0.1745,99.48139207084199,Preliminary; methods differ

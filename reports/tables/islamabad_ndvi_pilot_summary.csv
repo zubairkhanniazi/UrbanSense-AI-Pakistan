@@ -1,0 +1,6 @@
+metric,pixel_count,area_km2_approx,mean_ndvi,median_ndvi
+All valid clear-class NDVI pixels,8859022,885.9022,0.426811,0.413273
+SCL class 4: vegetation,3618048,361.8048,0.677509,0.692533
+SCL class 5: not vegetated,5188642,518.8642,0.257763,0.237577
+SCL class 6: water,52332,5.2332,-0.144653,-0.156627
+Exploratory NDVI >= 0.30,5517216,551.7216,0.588151,0.598724

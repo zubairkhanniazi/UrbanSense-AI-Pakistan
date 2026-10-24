@@ -16,6 +16,12 @@ data/raw/
 data/interim/
 data/processed/
 
-# Temporary outputs
+# Temporary files and logs
 *.tmp
 *.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

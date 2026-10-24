@@ -1,0 +1,21 @@
+﻿# Python environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and local configuration
+.env
+.env.*
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large satellite and geospatial datasets
+data/raw/
+data/interim/
+data/processed/
+
+# Temporary outputs
+*.tmp
+*.log
